@@ -1,0 +1,38 @@
+* {
+    font-family: "Nunito" , sans-serif;
+}
+
+.home-main {
+    padding: 20px;
+    width: 60%;
+    margin: auto;
+}
+
+.home-title {
+    padding: 30px 0 20px 0;
+    font-size: 40px;
+    
+}
+
+.home-sub-title {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    padding: 0 0 25px 0;
+    font-size: 25px;
+}
+
+.details {
+    display: inline-block;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
